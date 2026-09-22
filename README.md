@@ -22,7 +22,7 @@ A RESTful API built using Node.js, Express, and MongoDB for creating and managin
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/shahghasiadil/elearning-platform-api`
+   `git clone https://github.com/Sokcheatsrorng/e-learning-nodejs-api.git`
 
 `cd elearning-platform-api`
 
